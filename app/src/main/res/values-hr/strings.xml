@@ -2210,7 +2210,7 @@ broj telefona</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Vaša adresa novčanika</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopiraj</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Kopirano u međuspremnik</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Da biste dodali sredstva, pošaljite MobileCoin na vašu adresu novčanika. Započnite prijenos sa svog računa na burzi koja podržava MobileCoin, a zatim skenirajte QR kôd ili kopirajte adresu novčanika.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Da biste dodali sredstva, pošaljite MobileCoin na vašu adresu novčanika. Započnite prijenos sa svog računa na burzi koja podržava MobileCoin, a zatim skenirajte QR kôd ili kopirajte adresu novčanika.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detalji</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2231,7 +2231,7 @@ broj telefona</string>
   <string name="PaymentsDetailsFragment__no_details_available">Nema dodatnih pojedinosti za ovu transakciju</string>
   <string name="PaymentsDetailsFragment__sent_payment">Pošalji uplatu</string>
   <string name="PaymentsDetailsFragment__received_payment">Zaprimljena uplata</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Plaćanje je dovršeno %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Plaćanje je dovršeno %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Blokiraj broj</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Prijenos</string>

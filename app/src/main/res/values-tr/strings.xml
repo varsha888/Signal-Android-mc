@@ -2295,7 +2295,7 @@ Geçersiz protokol sürümünde anahtar değişim iletisi alındı.</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Cüzdan Adresiniz</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopyala</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Panoya kopyalandı</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Para eklemek için, cüzdan adresinize MobileCoin gönderin. MobileCoin destekleyen bir kambiyodaki hesabınızdan bir işlem başlatın, daha sonra Karekodu okutun veya cüzdan adresinizi girin.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Para eklemek için, cüzdan adresinize MobileCoin gönderin. MobileCoin destekleyen bir kambiyodaki hesabınızdan bir işlem başlatın, daha sonra Karekodu okutun veya cüzdan adresinizi girin.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detaylar</string>
   <string name="PaymentsDetailsFragment__status">Durum</string>
@@ -2316,7 +2316,7 @@ Geçersiz protokol sürümünde anahtar değişim iletisi alındı.</string>
   <string name="PaymentsDetailsFragment__no_details_available">Bu işlem için daha fazla ayrıntı yok</string>
   <string name="PaymentsDetailsFragment__sent_payment">Gönderilen ödeme</string>
   <string name="PaymentsDetailsFragment__received_payment">Ödeme alındı</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Ödeme tamamlandı %1$s </string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Ödeme tamamlandı %1$s </string>
   <string name="PaymentsDetailsFragment__block_number">Blok numarası</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Aktar</string>

@@ -2040,7 +2040,7 @@ i d-tefkiḍ (%s) ur yeɣti ara.</string>
   <string name="PaymentsDetailsFragment__from">Sɣur</string>
   <string name="PaymentsDetailsFragment__sent_payment">Lexlaṣ yettwaznen</string>
   <string name="PaymentsDetailsFragment__received_payment">Lexlaṣ yettwaṭṭfen</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Axelleṣ yemmed%1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Axelleṣ yemmed%1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Sewḥel uṭṭun</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Azen</string>

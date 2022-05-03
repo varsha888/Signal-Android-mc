@@ -2309,7 +2309,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Η διεύθυνση πορτοφολιού σας</string>
   <string name="PaymentsAddMoneyFragment__copy">Αντιγραφή</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Αντιγράφηκε στο πρόχειρο</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Για να προσθέσετε χρήματα, στείλτε MobileCoin στη διεύθυνση πορτοφολιού σας. Ξεκινήστε μια συναλλαγή από το λογαριασμό σας σε ένα ανταλλακτήριο που υποστηρίζει το MobileCoin και, στη συνέχεια, σαρώστε τον κωδικό QR ή αντιγράψτε τη διεύθυνση πορτοφολιού σας.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Για να προσθέσετε χρήματα, στείλτε MobileCoin στη διεύθυνση πορτοφολιού σας. Ξεκινήστε μια συναλλαγή από το λογαριασμό σας σε ένα ανταλλακτήριο που υποστηρίζει το MobileCoin και, στη συνέχεια, σαρώστε τον κωδικό QR ή αντιγράψτε τη διεύθυνση πορτοφολιού σας.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Λεπτομέρειες</string>
   <string name="PaymentsDetailsFragment__status">Κατάσταση</string>
@@ -2330,7 +2330,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Δεν υπάρχουν περισσότερες λεπτομέρειες για αυτήν τη συναλλαγή</string>
   <string name="PaymentsDetailsFragment__sent_payment">Αποστολή πληρωμής</string>
   <string name="PaymentsDetailsFragment__received_payment">Ληφθείσα πληρωμή</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Πληρωμή ολοκληρώθηκε %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Πληρωμή ολοκληρώθηκε %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Φραγή αριθμού</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Μεταφορά</string>

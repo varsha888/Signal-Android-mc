@@ -2284,7 +2284,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">നിങ്ങളുടെ വാലറ്റ് വിലാസം</string>
   <string name="PaymentsAddMoneyFragment__copy">പകർത്തൂ</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">ഫണ്ടുകൾ ചേർക്കുന്നതിന്, നിങ്ങളുടെ വാലറ്റ് വിലാസത്തിലേക്ക് മൊബൈൽ കോയിൻ അയയ്ക്കുക. മൊബൈൽ കോയിൻ പിന്തുണയ്ക്കുന്ന ഒരു എക്സ്ചേഞ്ചിൽ നിങ്ങളുടെ അക്കൗണ്ടിൽ നിന്ന് ഒരു ട്രാൻസാക്ഷൻ ആരംഭിക്കുക, തുടർന്ന് ക്യുആർ കോഡ് സ്കാൻ ചെയ്യുക അല്ലെങ്കിൽ നിങ്ങളുടെ വാലറ്റ് വിലാസം പകർത്തുക.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">ഫണ്ടുകൾ ചേർക്കുന്നതിന്, നിങ്ങളുടെ വാലറ്റ് വിലാസത്തിലേക്ക് മൊബൈൽ കോയിൻ അയയ്ക്കുക. മൊബൈൽ കോയിൻ പിന്തുണയ്ക്കുന്ന ഒരു എക്സ്ചേഞ്ചിൽ നിങ്ങളുടെ അക്കൗണ്ടിൽ നിന്ന് ഒരു ട്രാൻസാക്ഷൻ ആരംഭിക്കുക, തുടർന്ന് ക്യുആർ കോഡ് സ്കാൻ ചെയ്യുക അല്ലെങ്കിൽ നിങ്ങളുടെ വാലറ്റ് വിലാസം പകർത്തുക.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">വിശദാംശങ്ങൾ</string>
   <string name="PaymentsDetailsFragment__status">സ്റ്റാറ്റസ്</string>
@@ -2305,7 +2305,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">ഈ ഇടപാടിന് കൂടുതൽ വിശദാംശങ്ങൾ ലഭ്യമല്ല</string>
   <string name="PaymentsDetailsFragment__sent_payment">പേയ്മെന്റ് അയച്ചു</string>
   <string name="PaymentsDetailsFragment__received_payment">പേയ്മെന്റ് ലഭിച്ചു</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">പേയ്മെന്റ് പൂർത്തിയായി %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">പേയ്മെന്റ് പൂർത്തിയായി %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">നമ്പർ തടയുക</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">കൈമാറ്റം</string>

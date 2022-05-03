@@ -2310,7 +2310,7 @@ Tog emot meddelande för nyckelutbyte för ogiltig protokollversion.</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Din plånboksadress</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopiera</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Kopierad till urklipp</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">För att lägga till pengar, skicka MobileCoin till din plånboksadress. Starta en transaktion från ditt konto på en börs som stöder MobileCoin, skanna sedan QR-koden eller kopiera din plånboksadress.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">För att lägga till pengar, skicka MobileCoin till din plånboksadress. Starta en transaktion från ditt konto på en börs som stöder MobileCoin, skanna sedan QR-koden eller kopiera din plånboksadress.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detaljer</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2331,7 +2331,7 @@ Tog emot meddelande för nyckelutbyte för ogiltig protokollversion.</string>
   <string name="PaymentsDetailsFragment__no_details_available">Inga ytterligare detaljer tillgängliga för denna transaktion</string>
   <string name="PaymentsDetailsFragment__sent_payment">Skickad betalning</string>
   <string name="PaymentsDetailsFragment__received_payment">Mottagen betalning</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Betalningen slutförd %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Betalningen slutförd %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Blockera nummer</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Överför</string>

@@ -2485,7 +2485,7 @@ Obdržen požadavek na výměnu klíčů pro neplatnou verzi protokolu.
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Adresa vaší peněženky</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopírovat</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Zkopírováno do schránky</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Chcete-li přidat prostředky, zašlete MobileCoin na adresu vaší peněženky. Zahajte transakci ze svého účtu na burze, která podporuje MobileCoin, poté naskenujte QR kód nebo zkopírujte adresu peněženky.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Chcete-li přidat prostředky, zašlete MobileCoin na adresu vaší peněženky. Zahajte transakci ze svého účtu na burze, která podporuje MobileCoin, poté naskenujte QR kód nebo zkopírujte adresu peněženky.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Podrobnosti</string>
   <string name="PaymentsDetailsFragment__status">Stav</string>
@@ -2506,7 +2506,7 @@ Obdržen požadavek na výměnu klíčů pro neplatnou verzi protokolu.
   <string name="PaymentsDetailsFragment__no_details_available">Pro tuto transakci nejsou k dispozici žádné další podrobnosti</string>
   <string name="PaymentsDetailsFragment__sent_payment">Odeslaná platba</string>
   <string name="PaymentsDetailsFragment__received_payment">Přijatá platba</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Platba dokončena %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Platba dokončena %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Blokovat číslo</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Převést</string>

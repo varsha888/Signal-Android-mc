@@ -2165,7 +2165,7 @@ Menerima mesej pertukaran kunci untuk versi protokol yang tidak sah.</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Alamat Dompet Anda</string>
   <string name="PaymentsAddMoneyFragment__copy">Salin</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Disalin ke papan klip</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Untuk menambah dana, hantar MobileCoin ke alamat dompet anda. Mulakan transaksi daripada akaun anda di pertukaran yang menyokong MobileCoin, kemudian imbas kod QR atau salin alamat dompet anda.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Untuk menambah dana, hantar MobileCoin ke alamat dompet anda. Mulakan transaksi daripada akaun anda di pertukaran yang menyokong MobileCoin, kemudian imbas kod QR atau salin alamat dompet anda.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Butiran</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2186,7 +2186,7 @@ Menerima mesej pertukaran kunci untuk versi protokol yang tidak sah.</string>
   <string name="PaymentsDetailsFragment__no_details_available">Tidak ada butiran lebih lanjut untuk transaksi ini</string>
   <string name="PaymentsDetailsFragment__sent_payment">Pembayaran yang dihantar</string>
   <string name="PaymentsDetailsFragment__received_payment">Pembayaran yang diterima</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Pembayaran telah selesai %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Pembayaran telah selesai %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Nombor blok</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Pindah</string>

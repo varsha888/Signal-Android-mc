@@ -2315,7 +2315,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">O endereço da sua carteira</string>
   <string name="PaymentsAddMoneyFragment__copy">Copiar</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Copiado para a área de transferência</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Para adicionar fundos, envie MobileCoin para o endereço da sua carteira. Inicie uma transação a partir da sua conta numa troca compatível com MobileCoin e, em seguida, digitalize o código QR ou copie o endereço da carteira. </string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Para adicionar fundos, envie MobileCoin para o endereço da sua carteira. Inicie uma transação a partir da sua conta numa troca compatível com MobileCoin e, em seguida, digitalize o código QR ou copie o endereço da carteira. </string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detalhes</string>
   <string name="PaymentsDetailsFragment__status">Estado</string>
@@ -2336,7 +2336,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Sem mais detalhes relevantes para esta transação</string>
   <string name="PaymentsDetailsFragment__sent_payment">Pagamento enviado</string>
   <string name="PaymentsDetailsFragment__received_payment">Pagamento recebido</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Pagamento concluido %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Pagamento concluido %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Bloquear número</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Transferir</string>

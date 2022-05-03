@@ -2305,7 +2305,7 @@ Schlüsselaustausch-Nachricht für eine ungültige Protokollversion empfangen</s
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Deine Wallet-Adresse</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopieren</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">In Zwischenablage kopiert</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Um Guthaben hinzuzufügen, sende MobileCoin an deine Wallet-Adresse. Starte eine Transaktion von deinem Konto bei einer Handelsplattform, die MobileCoin unterstützt, und scanne dann den QR-Code oder kopiere deine Wallet-Adresse.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Um Guthaben hinzuzufügen, sende MobileCoin an deine Wallet-Adresse. Starte eine Transaktion von deinem Konto bei einer Handelsplattform, die MobileCoin unterstützt, und scanne dann den QR-Code oder kopiere deine Wallet-Adresse.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Details</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2326,7 +2326,7 @@ Schlüsselaustausch-Nachricht für eine ungültige Protokollversion empfangen</s
   <string name="PaymentsDetailsFragment__no_details_available">Keine weiteren Details für diese Transaktion verfügbar</string>
   <string name="PaymentsDetailsFragment__sent_payment">Zahlung gesendet</string>
   <string name="PaymentsDetailsFragment__received_payment">Zahlung empfangen</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Zahlung abgeschlossen %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Zahlung abgeschlossen %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Blocknummer</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Überweisen</string>

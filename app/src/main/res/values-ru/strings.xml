@@ -2479,7 +2479,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Адрес вашего кошелька</string>
   <string name="PaymentsAddMoneyFragment__copy">Копировать</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Скопировано в буфер обмена</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Чтобы пополнить баланс, отправьте MobileCoin на адрес своего кошелька. Начните транзакцию в своей учётной записи на бирже, которая поддерживает MobileCoin, затем просканируйте QR-код или скопируйте адрес своего кошелька.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Чтобы пополнить баланс, отправьте MobileCoin на адрес своего кошелька. Начните транзакцию в своей учётной записи на бирже, которая поддерживает MobileCoin, затем просканируйте QR-код или скопируйте адрес своего кошелька.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Подробнее</string>
   <string name="PaymentsDetailsFragment__status">Статус</string>
@@ -2500,7 +2500,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Для этой транзакции недоступно больше информации</string>
   <string name="PaymentsDetailsFragment__sent_payment">Отправленный платёж</string>
   <string name="PaymentsDetailsFragment__received_payment">Полученный платёж</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Платёж завершён %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Платёж завершён %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Номер блока</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Перевести</string>

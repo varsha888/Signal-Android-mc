@@ -2221,7 +2221,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">あなたのウォレットアドレス</string>
   <string name="PaymentsAddMoneyFragment__copy">コピー</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">クリップボードにコピーしました</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">入金するには、あなたのウォレットアドレスにMobileCoinを送信します。MobileCoinを扱っている取引所の、あなたの口座から取引を開始し、QRコードをスキャンするか、あなたのウォレットアドレスをコピーしてください。</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">入金するには、あなたのウォレットアドレスにMobileCoinを送信します。MobileCoinを扱っている取引所の、あなたの口座から取引を開始し、QRコードをスキャンするか、あなたのウォレットアドレスをコピーしてください。</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">詳細</string>
   <string name="PaymentsDetailsFragment__status">状態</string>
@@ -2242,7 +2242,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">この取引にこれ以上の情報はありません</string>
   <string name="PaymentsDetailsFragment__sent_payment">送金した決済</string>
   <string name="PaymentsDetailsFragment__received_payment">着金した決済</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">%1$sに決済完了</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">%1$sに決済完了</string>
   <string name="PaymentsDetailsFragment__block_number">ブロック番号</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">振替</string>

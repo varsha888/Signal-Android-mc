@@ -2197,7 +2197,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Alamat Dompet Anda</string>
   <string name="PaymentsAddMoneyFragment__copy">Salin</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Disalin ke papan klip</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Untuk menambah dana, kirimkan MobileCoin ke alamat wallet Anda. Mulai transaksi dari akun Anda pada sebuah exchange yang mendukung MobileCoin, kemudian pindai kode QR atau salin alamat wallet Anda.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Untuk menambah dana, kirimkan MobileCoin ke alamat wallet Anda. Mulai transaksi dari akun Anda pada sebuah exchange yang mendukung MobileCoin, kemudian pindai kode QR atau salin alamat wallet Anda.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detail</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2218,7 +2218,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="PaymentsDetailsFragment__no_details_available">Tidak ada detail lebih untuk transaksi ini</string>
   <string name="PaymentsDetailsFragment__sent_payment">Kirim pembayaran</string>
   <string name="PaymentsDetailsFragment__received_payment">Pembayaran diterima</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Pembayaran selesai %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Pembayaran selesai %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Blokir nomor</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Transfer</string>

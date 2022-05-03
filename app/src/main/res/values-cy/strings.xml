@@ -2488,7 +2488,7 @@ Anfon neges heb ei diogelu?</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Cyfeiriad Eich Waled</string>
   <string name="PaymentsAddMoneyFragment__copy">Copïo</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Wedi\'i gopïo i\'r clipfwrdd</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">I ychwanegu arian, anfonwch MobileCoin i\'ch cyfeiriad waled. Dechreuwch drafodyn o\'ch cyfrif ar gyfnewidfa sy\'n cefnogi MobileCoin, yna sganiwch y cod QR neu gopïwch eich cyfeiriad waled.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">I ychwanegu arian, anfonwch MobileCoin i\'ch cyfeiriad waled. Dechreuwch drafodyn o\'ch cyfrif ar gyfnewidfa sy\'n cefnogi MobileCoin, yna sganiwch y cod QR neu gopïwch eich cyfeiriad waled.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Manylion</string>
   <string name="PaymentsDetailsFragment__status">Statws</string>
@@ -2509,7 +2509,7 @@ Anfon neges heb ei diogelu?</string>
   <string name="PaymentsDetailsFragment__no_details_available">Nid oes unrhyw fanylion pellach ar gael ar gyfer y trafodyn hwn</string>
   <string name="PaymentsDetailsFragment__sent_payment">Taliad wedi\'i anfon</string>
   <string name="PaymentsDetailsFragment__received_payment">Taliad wedi\'i dderbyn</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Taliad wedi\'i gwblhau %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Taliad wedi\'i gwblhau %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Rhif bloc</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Trosglwyddo</string>

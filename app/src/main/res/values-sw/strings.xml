@@ -2135,7 +2135,7 @@ nambari yako ya simu</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Anwani ya Mkoba Wako</string>
   <string name="PaymentsAddMoneyFragment__copy">Nakili</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Imenakiliwa kwenye bodi ya kunakili</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Ili kuongeza pesa, tuma MobileCoin kwenye anwani yako ya mkoba. Anzisha muamala shughuli kutoka kwenye akaunti yako kwa ubadilishaji unatumia MobileCoin, kisha changanua msimbo wa QR au unakili anwani yako ya mkoba.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Ili kuongeza pesa, tuma MobileCoin kwenye anwani yako ya mkoba. Anzisha muamala shughuli kutoka kwenye akaunti yako kwa ubadilishaji unatumia MobileCoin, kisha changanua msimbo wa QR au unakili anwani yako ya mkoba.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Maelezo</string>
   <string name="PaymentsDetailsFragment__status">Hali</string>
@@ -2156,7 +2156,7 @@ nambari yako ya simu</string>
   <string name="PaymentsDetailsFragment__no_details_available">Hakuna maelezo zaidi yanayopatikana kwa muamal huu</string>
   <string name="PaymentsDetailsFragment__sent_payment">Umepokea malipo</string>
   <string name="PaymentsDetailsFragment__received_payment">Ulipokea malipo</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Malipo yalitumwa tarehe %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Malipo yalitumwa tarehe %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Nambari ya kuzuia</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Uhamisho</string>

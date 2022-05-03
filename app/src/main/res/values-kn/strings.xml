@@ -2138,7 +2138,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">ನಿಮ್ಮ ವಾಲೆಟ್ ವಿಳಾಸ</string>
   <string name="PaymentsAddMoneyFragment__copy">ನಕಲಿಸು</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">ಕ್ಲಿಪ್‌‌ಬೋರ್ಡಿಗೆ ನಕಲು ಮಾಡಲಾಗಿದೆ</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">ಫಂಡ್‌ಗಳನ್ನು ಸೇರಿಸಲು, ನಿಮ್ಮ ವಾಲೆಟ್ ವಿಳಾಸಕ್ಕೆ ಮೊಬೈಲ್‌ಕಾಯಿನ್‌ ಕಳುಹಿಸಿ. ಮೊಬೈಲ್‌ಕಾಯಿನ್ ಬೆಂಬಲಿಸುವ ವಿನಿಮಯದಲ್ಲಿ ನಿಮ್ಮ ಖಾತೆಯಿಂದ ವಹಿವಾಟನ್ನು ಆರಂಭಿಸಿ, ನಂತರ ಕ್ಯುಆರ್‌ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ ಅಥವಾ ನಿಮ್ಮ ವಾಲೆಟ್ ವಿಳಾಸವನ್ನು ನಕಲು ಮಾಡಿ.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">ಫಂಡ್‌ಗಳನ್ನು ಸೇರಿಸಲು, ನಿಮ್ಮ ವಾಲೆಟ್ ವಿಳಾಸಕ್ಕೆ ಮೊಬೈಲ್‌ಕಾಯಿನ್‌ ಕಳುಹಿಸಿ. ಮೊಬೈಲ್‌ಕಾಯಿನ್ ಬೆಂಬಲಿಸುವ ವಿನಿಮಯದಲ್ಲಿ ನಿಮ್ಮ ಖಾತೆಯಿಂದ ವಹಿವಾಟನ್ನು ಆರಂಭಿಸಿ, ನಂತರ ಕ್ಯುಆರ್‌ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ ಅಥವಾ ನಿಮ್ಮ ವಾಲೆಟ್ ವಿಳಾಸವನ್ನು ನಕಲು ಮಾಡಿ.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">ವಿವರಗಳು</string>
   <string name="PaymentsDetailsFragment__status">ಸ್ಥಿತಿ</string>
@@ -2159,7 +2159,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">ಈ ವಹಿವಾಟಿಗೆ ಯಾವುದೇ ಹೆಚ್ಚುವರಿ ವಿವರಗಳು ಲಭ್ಯವಿಲ್ಲ</string>
   <string name="PaymentsDetailsFragment__sent_payment">ಪೇಮೆಂಟ್ ಕಳುಹಿಸಲಾಗಿದೆ</string>
   <string name="PaymentsDetailsFragment__received_payment">ಪೇಮೆಂಟ್ ಸ್ವೀಕರಿಸಲಾಗಿದೆ</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">ಪೇಮೆಂಟ್ ಪೂರ್ಣಗೊಂಡಿದೆ %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">ಪೇಮೆಂಟ್ ಪೂರ್ಣಗೊಂಡಿದೆ %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">ಸಂಖ್ಯೆಯನ್ನು ಬ್ಲಾಕ್ ಮಾಡಿ</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">ವರ್ಗಾವಣೆ</string>

@@ -2305,7 +2305,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">आपला वॉलेट पत्ता</string>
   <string name="PaymentsAddMoneyFragment__copy">कॉपी करा</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">क्लिपबोर्ड वर कॉपी केले</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">फंड जोडण्यासाठी, MobileCoin आपल्या वॉलेट पत्त्यावर पाठवा. MobileCoin चे समर्थन करत असलेल्या ऐक्सचेंजवर आपल्या खात्यावरून व्यवहार चालू करा, नंतर QR कोड स्कॅन करा किंवा वॉलेट पत्ता कॉपी करा.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">फंड जोडण्यासाठी, MobileCoin आपल्या वॉलेट पत्त्यावर पाठवा. MobileCoin चे समर्थन करत असलेल्या ऐक्सचेंजवर आपल्या खात्यावरून व्यवहार चालू करा, नंतर QR कोड स्कॅन करा किंवा वॉलेट पत्ता कॉपी करा.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">तपशील</string>
   <string name="PaymentsDetailsFragment__status">स्थिती</string>
@@ -2326,7 +2326,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">या व्यवहारासाठी कुठलाही पुढचा तपशील उपलब्ध नाही</string>
   <string name="PaymentsDetailsFragment__sent_payment">पेमेंट पाठवले</string>
   <string name="PaymentsDetailsFragment__received_payment">पेमेंट प्राप्त झाले</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">पेमेंट पूर्ण झाले %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">पेमेंट पूर्ण झाले %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">नंबर अवरोधित करा</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">स्थानांतरित करा</string>

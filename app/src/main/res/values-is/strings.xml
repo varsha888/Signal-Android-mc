@@ -2313,7 +2313,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Vistfang veskisins þíns</string>
   <string name="PaymentsAddMoneyFragment__copy">Afrita</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Afritað á klippispjald</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Til að bæta við fjármunum, skaltu senda MobileCoin-mynt á vistfang veskisins þíns. Framkvæmdu millifærslu frá aðgangi þínum á greiðslumiðlun sem styður MobileCoin, skannaðu síðan QR-kóða eða afritaðu vistfang veskisins þíns.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Til að bæta við fjármunum, skaltu senda MobileCoin-mynt á vistfang veskisins þíns. Framkvæmdu millifærslu frá aðgangi þínum á greiðslumiðlun sem styður MobileCoin, skannaðu síðan QR-kóða eða afritaðu vistfang veskisins þíns.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Nánar</string>
   <string name="PaymentsDetailsFragment__status">Staða</string>
@@ -2334,7 +2334,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Engar nánari upplýsingar eru tiltækar varðandi þessa færslu</string>
   <string name="PaymentsDetailsFragment__sent_payment">Send greiðsla</string>
   <string name="PaymentsDetailsFragment__received_payment">Móttekin greiðsla</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Greiðslu lokið %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Greiðslu lokið %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Númer blokkar</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Flutningur</string>

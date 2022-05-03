@@ -2176,7 +2176,7 @@ Nhận thông tin trao đổi mã khóa về phiên bản giao thức không h�
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Địa chỉ Ví của bạn</string>
   <string name="PaymentsAddMoneyFragment__copy">Sao chép</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Đã sao chép vào clipboard</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Để thêm quỹ, gửi MobileCoin vào địa chỉ ví của bạn. Bắt đầu một giao dịch từ tài khoản của bạn trên một sàn trao đổi có hỗ trợ MobileCoin, sau đó quét mã QR hoặc sao chép địa chỉ ví của bạn.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Để thêm quỹ, gửi MobileCoin vào địa chỉ ví của bạn. Bắt đầu một giao dịch từ tài khoản của bạn trên một sàn trao đổi có hỗ trợ MobileCoin, sau đó quét mã QR hoặc sao chép địa chỉ ví của bạn.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Chi tiết</string>
   <string name="PaymentsDetailsFragment__status">Trạng thái</string>
@@ -2197,7 +2197,7 @@ Nhận thông tin trao đổi mã khóa về phiên bản giao thức không h�
   <string name="PaymentsDetailsFragment__no_details_available">Không có chi tiết thêm cho giao dịch này</string>
   <string name="PaymentsDetailsFragment__sent_payment">Thanh toán đã gửi</string>
   <string name="PaymentsDetailsFragment__received_payment">Thanh toán đã nhận</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Thanh toán đã hoàn tất %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Thanh toán đã hoàn tất %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Chặn số</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Chuyển</string>

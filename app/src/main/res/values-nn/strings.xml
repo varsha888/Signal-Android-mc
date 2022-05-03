@@ -2322,7 +2322,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Lommebokadressa di</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopier</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Kopiert til utklippstavla</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Send MobileCoin til lommebokadressa di for å legga til midlar. Start ein transaksjon frå kontoen din på ein vekslebørs som støttar MobileCoin, og skann QR-koden eller kopier lommebokadressa di.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Send MobileCoin til lommebokadressa di for å legga til midlar. Start ein transaksjon frå kontoen din på ein vekslebørs som støttar MobileCoin, og skann QR-koden eller kopier lommebokadressa di.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detaljar</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2343,7 +2343,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <string name="PaymentsDetailsFragment__no_details_available">Ingen fleire detaljar tilgjengeleg for denne transaksjonen</string>
   <string name="PaymentsDetailsFragment__sent_payment">Sende betaling</string>
   <string name="PaymentsDetailsFragment__received_payment">Mottok betaling</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Betaling fullført %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Betaling fullført %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Blokknummer</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Overfør</string>

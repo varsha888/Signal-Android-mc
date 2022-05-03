@@ -2214,7 +2214,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Sinu rahakoti aadress</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopeeri</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Lõikelauale kopeeritud</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Vahendite lisamiseks saada MobileCoinid enda rahakoti aadressile. Alusta tehingut mõne valuutavahetuse kontolt, mis toetab MobileCoini, siis skanni QR-kood või kopeeri enda rahakoti aadress.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Vahendite lisamiseks saada MobileCoinid enda rahakoti aadressile. Alusta tehingut mõne valuutavahetuse kontolt, mis toetab MobileCoini, siis skanni QR-kood või kopeeri enda rahakoti aadress.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Üksikasjad</string>
   <string name="PaymentsDetailsFragment__status">Olek</string>

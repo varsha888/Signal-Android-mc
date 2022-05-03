@@ -2478,7 +2478,7 @@ Otrzymano wiadomość wymiany klucz dla niepoprawnej wersji protokołu.</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Adres Twojego portfela</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopiuj</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Skopiowano do schowka</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Aby dodać środki, wyślij walutę MobileCoin na adres swojego portfela. Rozpocznij transakcję na swoim koncie w kantorze obsługującym MobileCoin, a następnie zeskanuj kod QR lub skopiuj adres swojego portfela.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Aby dodać środki, wyślij walutę MobileCoin na adres swojego portfela. Rozpocznij transakcję na swoim koncie w kantorze obsługującym MobileCoin, a następnie zeskanuj kod QR lub skopiuj adres swojego portfela.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Szczegóły</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2499,7 +2499,7 @@ Otrzymano wiadomość wymiany klucz dla niepoprawnej wersji protokołu.</string>
   <string name="PaymentsDetailsFragment__no_details_available">Brak szczegółów dla tej transakcji</string>
   <string name="PaymentsDetailsFragment__sent_payment">Wysłana płatność</string>
   <string name="PaymentsDetailsFragment__received_payment">Otrzymana płatność</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Płatność zakończona %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Płatność zakończona %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Zablokuj numer</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Przenieś</string>

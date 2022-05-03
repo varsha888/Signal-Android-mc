@@ -2321,7 +2321,7 @@ In groepen zullen jouw berichten niet zichtbaar zijn voor personen die je hebt g
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Het adres van je portemonnee</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopiëren</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Gekopieerd naar het klembord</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Maak een account bij een beurs die MobileCoin ondersteunt. Stuur vervolgens vanaf je beurs-account MobileCoin naar je Signal portemonnee-adres door de QR-code te scannen of door het adres te kopiëren om op Signal krediet toe te voegen.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Maak een account bij een beurs die MobileCoin ondersteunt. Stuur vervolgens vanaf je beurs-account MobileCoin naar je Signal portemonnee-adres door de QR-code te scannen of door het adres te kopiëren om op Signal krediet toe te voegen.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Details</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2342,7 +2342,7 @@ In groepen zullen jouw berichten niet zichtbaar zijn voor personen die je hebt g
   <string name="PaymentsDetailsFragment__no_details_available">Er is geen verdere informatie beschikbaar over deze overschrijving</string>
   <string name="PaymentsDetailsFragment__sent_payment">Overschrijving verzenden</string>
   <string name="PaymentsDetailsFragment__received_payment">Ontvangen overschrijving</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Overschrijving voltooid %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Overschrijving voltooid %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Bloknummer</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Overschrijven</string>

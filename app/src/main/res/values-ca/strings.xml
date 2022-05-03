@@ -2310,7 +2310,7 @@ S\'ha rebut un missatge d\'intercanvi de claus per a una versió del protocol no
   <string name="PaymentsAddMoneyFragment__your_wallet_address">La vostra adreça de cartera</string>
   <string name="PaymentsAddMoneyFragment__copy">Copia</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Copiat al porta-retalls</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Per afegir-hi fons, envieu MobileCoin a la vostra adreça de cartera. Inicieu una transacció des del compte amb un intercanvi que admeti MobileCoin i, a continuació, escaneu el codi QR o copieu la vostra adreça de cartera.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Per afegir-hi fons, envieu MobileCoin a la vostra adreça de cartera. Inicieu una transacció des del compte amb un intercanvi que admeti MobileCoin i, a continuació, escaneu el codi QR o copieu la vostra adreça de cartera.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detalls</string>
   <string name="PaymentsDetailsFragment__status">Estat</string>
@@ -2331,7 +2331,7 @@ S\'ha rebut un missatge d\'intercanvi de claus per a una versió del protocol no
   <string name="PaymentsDetailsFragment__no_details_available">No hi ha més detalls disponibles per a aquesta transacció.</string>
   <string name="PaymentsDetailsFragment__sent_payment">Pagament enviat</string>
   <string name="PaymentsDetailsFragment__received_payment">Pagament rebut</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Pagament fet: %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Pagament fet: %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Número de bloc</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Transferència</string>

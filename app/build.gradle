@@ -174,6 +174,7 @@ android {
 
         buildConfigField "long", "BUILD_TIMESTAMP", getLastCommitTimestamp() + "L"
         buildConfigField "String", "GIT_HASH", "\"${getGitHash()}\""
+        buildConfigField "String", "MOBILECOIN_BUY_URL", "\"https://buy.mobilecoin.com/signal\""
         buildConfigField "String", "SIGNAL_URL", "\"https://chat.signal.org\""
         buildConfigField "String", "STORAGE_URL", "\"https://storage.signal.org\""
         buildConfigField "String", "SIGNAL_CDN_URL", "\"https://cdn.signal.org\""
@@ -334,6 +335,7 @@ android {
 
             applicationIdSuffix ".staging"
 
+            buildConfigField "String", "MOBILECOIN_BUY_URL", "\"https://staging.buy.mobilecoin.com/signal\""
             buildConfigField "String", "SIGNAL_URL", "\"https://chat.staging.signal.org\""
             buildConfigField "String", "STORAGE_URL", "\"https://storage-staging.signal.org\""
             buildConfigField "String", "SIGNAL_CDN_URL", "\"https://cdn-staging.signal.org\""

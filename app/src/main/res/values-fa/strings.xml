@@ -2279,7 +2279,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">نشانی کیف پول شما</string>
   <string name="PaymentsAddMoneyFragment__copy">کپی</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">روی کلیپ‌بورد کپی شد</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">برای افزودن اعتبار، MobileCoin را به نشانی کیف پول خود ارسال کنید. تراکنشی از حساب کاربری خود در یک صرافی که از MobileCoin پشتیبانی می‌کند آغاز کنید، سپس کد QR را اسکن یا نشانی کیف پول خود را کپی کنید.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">برای افزودن اعتبار، MobileCoin را به نشانی کیف پول خود ارسال کنید. تراکنشی از حساب کاربری خود در یک صرافی که از MobileCoin پشتیبانی می‌کند آغاز کنید، سپس کد QR را اسکن یا نشانی کیف پول خود را کپی کنید.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">جزئیات</string>
   <string name="PaymentsDetailsFragment__status">وضعیت</string>
@@ -2300,7 +2300,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">هیچ جزئیات بیشتری برای این تراکنش وجود ندارد</string>
   <string name="PaymentsDetailsFragment__sent_payment">پرداخت ارسال شد</string>
   <string name="PaymentsDetailsFragment__received_payment">پرداخت دریافت شد</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">پرداخت کامل شد %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">پرداخت کامل شد %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">مسدود کردن شماره</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">انتقال</string>

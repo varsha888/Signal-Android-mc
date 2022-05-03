@@ -2486,7 +2486,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">כתובת הארנק שלך</string>
   <string name="PaymentsAddMoneyFragment__copy">העתק</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">הועתק ללוח</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">כדי להוסיף כספים, שלח MobileCoin  אל כתובת הארנק שלך. התחל עסקה מהחשבון שלך במסחר שתומך ב־MobileCoin, ואז סרוק את קוד ה־QR או העתק את כתובת הארנק שלך.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">כדי להוסיף כספים, שלח MobileCoin  אל כתובת הארנק שלך. התחל עסקה מהחשבון שלך במסחר שתומך ב־MobileCoin, ואז סרוק את קוד ה־QR או העתק את כתובת הארנק שלך.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">פרטים</string>
   <string name="PaymentsDetailsFragment__status">מעמד</string>
@@ -2507,7 +2507,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">אין פרטים נוספים זמינים עבור עסקה זו</string>
   <string name="PaymentsDetailsFragment__sent_payment">תשלום נשלח</string>
   <string name="PaymentsDetailsFragment__received_payment">תשלום התקבל</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">תשלום הושלם %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">תשלום הושלם %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">חסום מספר</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">העבר</string>

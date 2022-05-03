@@ -2313,7 +2313,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Адреса на Вашиот паричник</string>
   <string name="PaymentsAddMoneyFragment__copy">Копирај</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Копирано на таблата со исечоци</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">За да додадете средства, испратете MobileCoin на адресата на Вашиот паричник. Започнете трансакција од Вашата сметка на берза која што поддржува MobileCoin, потоа скенирајте го QR кодот или копирајте ја адресата на Вашиот паричник.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">За да додадете средства, испратете MobileCoin на адресата на Вашиот паричник. Започнете трансакција од Вашата сметка на берза која што поддржува MobileCoin, потоа скенирајте го QR кодот или копирајте ја адресата на Вашиот паричник.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Детали</string>
   <string name="PaymentsDetailsFragment__status">Статус</string>
@@ -2334,7 +2334,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Нема дополнителни детали за оваа трансакција</string>
   <string name="PaymentsDetailsFragment__sent_payment">Испратено плаќање</string>
   <string name="PaymentsDetailsFragment__received_payment">Примено плаќање</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Плаќањето е завршено %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Плаќањето е завршено %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Блокирај број</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Трансфер</string>

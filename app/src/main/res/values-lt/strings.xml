@@ -2486,7 +2486,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Jūsų piniginės adresas</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopijuoti</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Nukopijuota į iškarpinę</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Norėdami pridėti lėšas, siųskite „MobileCoin“ valiutą į savo piniginės adresą. Pradėkite operaciją savo paskyroje, „MobileCoin“ palaikančiame valiutos keitimo punkte, o tuomet nuskenuokite QR kodą arba nukopijuokite savo piniginės adresą.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Norėdami pridėti lėšas, siųskite „MobileCoin“ valiutą į savo piniginės adresą. Pradėkite operaciją savo paskyroje, „MobileCoin“ palaikančiame valiutos keitimo punkte, o tuomet nuskenuokite QR kodą arba nukopijuokite savo piniginės adresą.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Išsamesnė informacija</string>
   <string name="PaymentsDetailsFragment__status">Būsena</string>
@@ -2507,7 +2507,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Nėra išsamesnės informacijos apie šią operaciją</string>
   <string name="PaymentsDetailsFragment__sent_payment">Išsiųstas mokėjimas</string>
   <string name="PaymentsDetailsFragment__received_payment">Gautas mokėjimas</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Mokėjimas užbaigtas %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Mokėjimas užbaigtas %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Užblokuoti numerį</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Pervesti</string>

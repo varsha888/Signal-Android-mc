@@ -2390,7 +2390,7 @@ Saņemts nederīgas protokola versijas atslēgas apmaiņas ziņojums.
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Jūsu maciņa adrese</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopēt</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Iekopēts starpliktuvē</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Lai pievienotu naudas kapitālu, nosūtiet MobileCoin uz sava naudas maka adresi. Sāciet transakciju no sava konta biržā, kas atbalsta MobileCoin, pēc tam skenējiet kvadrātkodu vai kopējiet naudas maka adresi.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Lai pievienotu naudas kapitālu, nosūtiet MobileCoin uz sava naudas maka adresi. Sāciet transakciju no sava konta biržā, kas atbalsta MobileCoin, pēc tam skenējiet kvadrātkodu vai kopējiet naudas maka adresi.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Sīkāki dati / Rekvizīti</string>
   <string name="PaymentsDetailsFragment__status">Statuss</string>
@@ -2411,7 +2411,7 @@ Saņemts nederīgas protokola versijas atslēgas apmaiņas ziņojums.
   <string name="PaymentsDetailsFragment__no_details_available">Vairāk datu par šo transakciju nav pieejami</string>
   <string name="PaymentsDetailsFragment__sent_payment">Nosūtīts maksājums</string>
   <string name="PaymentsDetailsFragment__received_payment">Saņemts maksājums</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Maksājums pabeigts %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Maksājums pabeigts %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Bloka numurs</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Pārsūtīt</string>

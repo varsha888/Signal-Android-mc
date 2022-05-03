@@ -2645,7 +2645,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">عنوان محفظتك</string>
   <string name="PaymentsAddMoneyFragment__copy">نسخ</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">تم النسخ إلى الحافظة</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">لإضافة مبالغ، يٌرجى إرسال MobileCoin إلى عنوان محفظتك. يجب البدء بالمعاملة انطلاقا من حسابك في منصة تداول تدعم MobileCoin، بعدها يجب مسح الرمز المربع أو نسخ عنوان محفظتك.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">لإضافة مبالغ، يٌرجى إرسال MobileCoin إلى عنوان محفظتك. يجب البدء بالمعاملة انطلاقا من حسابك في منصة تداول تدعم MobileCoin، بعدها يجب مسح الرمز المربع أو نسخ عنوان محفظتك.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">التفاصيل</string>
   <string name="PaymentsDetailsFragment__status">الحالة</string>
@@ -2666,7 +2666,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">لا وجود لأي تفاصيل أخرى متاحة حول هذه المعاملة</string>
   <string name="PaymentsDetailsFragment__sent_payment">المبلغ المُرسَل</string>
   <string name="PaymentsDetailsFragment__received_payment">المبلغ المُستلَم</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">تمَّ الدفع %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">تمَّ الدفع %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">حظر الرقم</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">إرسال</string>

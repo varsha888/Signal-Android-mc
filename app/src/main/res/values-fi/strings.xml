@@ -2281,7 +2281,7 @@ Vastaanotetiin avaintenvaihtoviesti, joka kuuluu väärälle protokollaversiolle
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Lompakkosi osoite</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopioi</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Kopioitu leikepöydälle</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Lisää varoja lähettämällä MobileCoineja lompakko-osoitteeseen. Aloita siirto tililtäsi MobileCoin-yhteensopivalla kauppapaikalla ja sitten skannaamalla QR-koodi tai kopioimalla lompakon osoite.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Lisää varoja lähettämällä MobileCoineja lompakko-osoitteeseen. Aloita siirto tililtäsi MobileCoin-yhteensopivalla kauppapaikalla ja sitten skannaamalla QR-koodi tai kopioimalla lompakon osoite.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Lisätietoja</string>
   <string name="PaymentsDetailsFragment__status">Tila</string>
@@ -2302,7 +2302,7 @@ Vastaanotetiin avaintenvaihtoviesti, joka kuuluu väärälle protokollaversiolle
   <string name="PaymentsDetailsFragment__no_details_available">Siirto ei sisällä lisätietoja</string>
   <string name="PaymentsDetailsFragment__sent_payment">Maksu lähetetty</string>
   <string name="PaymentsDetailsFragment__received_payment">Maksu vastaanotettu</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Maksu on suoritettu %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Maksu on suoritettu %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Estä numero</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Siirrä</string>

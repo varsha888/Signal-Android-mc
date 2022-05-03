@@ -2137,7 +2137,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">آپ کا Wallet کا پتہ</string>
   <string name="PaymentsAddMoneyFragment__copy">کاپی کریں</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">کلپ بورڈ کو کاپی کریں</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">فنڈز شامل کرنے کے لئے ، اپنے Wallet کے پتے پر موبائل کوائن بھیجیں۔ اپنے تبادلے سے اپنے اکاؤنٹ سے لین دین شروع کریں جو موبائل کوائن کو سپورٹ کرتا ہے ، پھر کیو آر کوڈ اسکین کریں یا اپنے Wallet کے پتے کو کاپی کریں۔</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">فنڈز شامل کرنے کے لئے ، اپنے Wallet کے پتے پر موبائل کوائن بھیجیں۔ اپنے تبادلے سے اپنے اکاؤنٹ سے لین دین شروع کریں جو موبائل کوائن کو سپورٹ کرتا ہے ، پھر کیو آر کوڈ اسکین کریں یا اپنے Wallet کے پتے کو کاپی کریں۔</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">تفصیلات</string>
   <string name="PaymentsDetailsFragment__status">صورتحال</string>
@@ -2158,7 +2158,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">اس لین دین کے لئے مزید کوئی تفصیلات دستیاب نہیں ہیں</string>
   <string name="PaymentsDetailsFragment__sent_payment">ادائیگی بھیجی گئی</string>
   <string name="PaymentsDetailsFragment__received_payment">ادائیگی موصول ہوئی</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">ادائیگی مکمل ہوگئی%1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">ادائیگی مکمل ہوگئی%1$s</string>
   <string name="PaymentsDetailsFragment__block_number">بلاک نمبر</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">منتقلی</string>

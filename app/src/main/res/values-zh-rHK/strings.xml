@@ -2230,7 +2230,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">您的錢包位址</string>
   <string name="PaymentsAddMoneyFragment__copy">複製</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">已複製至剪貼簿</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">若要增加款項，請發送 MobileCoin 到您的錢包位址。請在支援 MobileCoin 的交易平台上以您所屬的帳戶開始一筆交易，然後掃描二維碼或複製您的錢包位址。</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">若要增加款項，請發送 MobileCoin 到您的錢包位址。請在支援 MobileCoin 的交易平台上以您所屬的帳戶開始一筆交易，然後掃描二維碼或複製您的錢包位址。</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">詳細資料</string>
   <string name="PaymentsDetailsFragment__status">狀態</string>
@@ -2251,7 +2251,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">此交易無進一步詳情提供</string>
   <string name="PaymentsDetailsFragment__sent_payment">已發送付款</string>
   <string name="PaymentsDetailsFragment__received_payment">已接收付款</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">付款已完成 %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">付款已完成 %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">區塊編號</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">轉移</string>

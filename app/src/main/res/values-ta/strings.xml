@@ -2175,7 +2175,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">உங்கள் Wallet முகவரி</string>
   <string name="PaymentsAddMoneyFragment__copy">நகல்</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">க்கு கூட்டு நிதி, அனுப்பு உங்களிடம் MobileCoin பணப்பை முகவரி. உங்களிடமிருந்து ஒரு பரிவர்த்தனையைத் தொடங்கவும்கணக்கு ஒரு பரிமாற்றம் இது MobileCoin ஐ ஆதரிக்கிறது ஊடுகதிர் தி க்யு ஆர் குறியீடு அல்லது நகல் உங்கள் பணப்பை முகவரி.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">க்கு கூட்டு நிதி, அனுப்பு உங்களிடம் MobileCoin பணப்பை முகவரி. உங்களிடமிருந்து ஒரு பரிவர்த்தனையைத் தொடங்கவும்கணக்கு ஒரு பரிமாற்றம் இது MobileCoin ஐ ஆதரிக்கிறது ஊடுகதிர் தி க்யு ஆர் குறியீடு அல்லது நகல் உங்கள் பணப்பை முகவரி.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">விவரங்கள்</string>
   <string name="PaymentsDetailsFragment__status">நிலைமை</string>
@@ -2196,7 +2196,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">இல்லை மேலும் விவரங்கள் இந்த பரிவர்த்தனைக்கு கிடைக்கிறது</string>
   <string name="PaymentsDetailsFragment__sent_payment">கட்டணம் அனுப்பப்பட்டது</string>
   <string name="PaymentsDetailsFragment__received_payment">கட்டணம் அனுப்பப்பட்டது</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">கட்டணம் முடிந்தது %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">கட்டணம் முடிந்தது %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">தடு எண்</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">இடமாற்றம்</string>

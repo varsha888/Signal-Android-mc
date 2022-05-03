@@ -2316,7 +2316,7 @@ Ricevis mesaĝon pri interŝanĝo de ŝlosiloj por nevalida protokola versio.
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Via monujo-adreso</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopii</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Kopiita al tondujo</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Por aldoni monon, sendu „MobileCoin“ al via monujo. Komencu transakcion el via konto pere de monŝanĝejo, kiu subtenas MobileCoin, poste skanu la QR-kodon aŭ kopiu vian monuj-adreson.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Por aldoni monon, sendu „MobileCoin“ al via monujo. Komencu transakcion el via konto pere de monŝanĝejo, kiu subtenas MobileCoin, poste skanu la QR-kodon aŭ kopiu vian monuj-adreson.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detaloj</string>
   <string name="PaymentsDetailsFragment__status">Stato</string>
@@ -2337,7 +2337,7 @@ Ricevis mesaĝon pri interŝanĝo de ŝlosiloj por nevalida protokola versio.
   <string name="PaymentsDetailsFragment__no_details_available">Neniu plia detalo disponeblas pri tiu transakcio</string>
   <string name="PaymentsDetailsFragment__sent_payment">Sendita pago</string>
   <string name="PaymentsDetailsFragment__received_payment">Ricevita pago</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Pago farita %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Pago farita %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Bloknumero</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Transigo</string>

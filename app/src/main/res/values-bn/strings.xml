@@ -2241,7 +2241,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">আপনার ওয়ালেট ঠিকানা</string>
   <string name="PaymentsAddMoneyFragment__copy">অনুলিপি</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">ক্লিপবোর্ডে অনুলিপি করা হয়েছে</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">ফান্ড যোগ করতে আপনার ওয়ালেটের ঠিকানায় MobileCoin পাঠান। আপনার অ্যাকাউন্ট থেকে এমন কোনও লেনদেন শুরু করুন যা MobileCoin-কে সাপোর্ট করে, তারপরে QR কোডটি স্ক্যান করুন বা আপনার ওয়ালেটের ঠিকানাটি কপি করুন।</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">ফান্ড যোগ করতে আপনার ওয়ালেটের ঠিকানায় MobileCoin পাঠান। আপনার অ্যাকাউন্ট থেকে এমন কোনও লেনদেন শুরু করুন যা MobileCoin-কে সাপোর্ট করে, তারপরে QR কোডটি স্ক্যান করুন বা আপনার ওয়ালেটের ঠিকানাটি কপি করুন।</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">খুঁটিনাটি</string>
   <string name="PaymentsDetailsFragment__status">অবস্থা</string>
@@ -2262,7 +2262,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">এই লেনদেনের জন্য আর কোন বিস্তারিত বিবরণ নেই</string>
   <string name="PaymentsDetailsFragment__sent_payment">পেমেন্ট পাঠানো হয়েছে</string>
   <string name="PaymentsDetailsFragment__received_payment">পেমেন্ট পেয়েছে</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">%1$s পেমেন্ট সম্পন্ন হয়েছে</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">%1$s পেমেন্ট সম্পন্ন হয়েছে</string>
   <string name="PaymentsDetailsFragment__block_number">নাম্বার ব্লক করুন</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">ট্রান্সফার করুন</string>

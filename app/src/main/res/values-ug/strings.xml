@@ -2188,7 +2188,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">ھەميان ئادرېسىڭىز</string>
   <string name="PaymentsAddMoneyFragment__copy">كۆچۈر</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">چاپلاش تاختىسىغا كۆچۈردى</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">مەبلەغ قوشۇش ئۈچۈن MobileCoin نى ھەميان ئادرېسىڭىزغا ئەۋەتىڭ. مۇئامىلىنى MobileCoin نى قوللايدىغان بىر ئالماستۇرغۇچىدىكى ھېساباتىڭىزدىن باشلاڭ، ئاندىن QR كودىنى سايىلەڭ ياكى ھەميان ئادرېسىڭىزنى كۆچۈرۈڭ.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">مەبلەغ قوشۇش ئۈچۈن MobileCoin نى ھەميان ئادرېسىڭىزغا ئەۋەتىڭ. مۇئامىلىنى MobileCoin نى قوللايدىغان بىر ئالماستۇرغۇچىدىكى ھېساباتىڭىزدىن باشلاڭ، ئاندىن QR كودىنى سايىلەڭ ياكى ھەميان ئادرېسىڭىزنى كۆچۈرۈڭ.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">تەپسىلاتى</string>
   <string name="PaymentsDetailsFragment__status">ھالىتى</string>
@@ -2209,7 +2209,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">بۇ مۇئامىلىدە باشقا تەپسىلاتلار يوق</string>
   <string name="PaymentsDetailsFragment__sent_payment">چىقىم يوللاندى</string>
   <string name="PaymentsDetailsFragment__received_payment">تاپشۇرۇۋالغان چىقىم</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">چىقىم تاماملاندى %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">چىقىم تاماملاندى %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">نومۇرنى چەكلە</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">يۆتكە</string>

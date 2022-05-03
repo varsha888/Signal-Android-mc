@@ -2316,7 +2316,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Pulqabı ünvanınız</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopyala</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Lövhəyə kopyalandı</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Pul əlavə etmək üçün pulqabı ünvanınıza MobileCoin göndərin. MobileCoin dəstəkləyən bir birjada hesabınızdan bir əməliyyat başladın, daha sonra QR kodu skan edin və ya pulqabı ünvanınızı kopyalayın.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Pul əlavə etmək üçün pulqabı ünvanınıza MobileCoin göndərin. MobileCoin dəstəkləyən bir birjada hesabınızdan bir əməliyyat başladın, daha sonra QR kodu skan edin və ya pulqabı ünvanınızı kopyalayın.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Təfsilatlar</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2337,7 +2337,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Bu əməliyyatla bağlı əlavə məlumat yoxdur</string>
   <string name="PaymentsDetailsFragment__sent_payment">Ödəniş göndərildi</string>
   <string name="PaymentsDetailsFragment__received_payment">Ödəniş alındı</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Ödəniş tamamlandı %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Ödəniş tamamlandı %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Blok nömrəsi</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Köçürmə</string>

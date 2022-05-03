@@ -2397,7 +2397,7 @@ Am primit mesajul conform căruia schimbul de chei a avut loc pentru o versiune 
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Adresa portofelului tău</string>
   <string name="PaymentsAddMoneyFragment__copy">Copiere</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">S-a copiat în clipboard</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Pentru a adăuga fonduri, trimite MobileCoin către adresa portofelului tău. Inițiază o tranzacție din contul tău de la un exchange care acceptă MobileCoin, după care scanează codul QR sau copiază adresa portofelului.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Pentru a adăuga fonduri, trimite MobileCoin către adresa portofelului tău. Inițiază o tranzacție din contul tău de la un exchange care acceptă MobileCoin, după care scanează codul QR sau copiază adresa portofelului.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detalii</string>
   <string name="PaymentsDetailsFragment__status">Stare</string>
@@ -2418,7 +2418,7 @@ Am primit mesajul conform căruia schimbul de chei a avut loc pentru o versiune 
   <string name="PaymentsDetailsFragment__no_details_available">Nu mai sunt detalii disponibile pentru această tranzacție</string>
   <string name="PaymentsDetailsFragment__sent_payment">Plată efectuată</string>
   <string name="PaymentsDetailsFragment__received_payment">Plată încasată</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Plată finalizată %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Plată finalizată %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Blocare număr</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Transfer</string>
