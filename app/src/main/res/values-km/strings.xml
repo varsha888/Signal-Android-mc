@@ -2189,7 +2189,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">អាសយដ្ឋានកាបូបរបស់អ្នក</string>
   <string name="PaymentsAddMoneyFragment__copy">ចម្លង</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">បានចម្លងទៅ clipboard</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">ដើម្បីបន្ថែមថវិកា ផ្ញើ MobileCoin អាសយដ្ឋានកាបូបរបស់អ្នក។ ចាប់ផ្តើមប្រតិបត្តិការពីគណនីរបស់អ្នក នៅកន្លែងប្តូរប្រាក់ដែលគាំទ្រ MobileCoin បន្ទាប់មកស្កេនកូដ QR ឬចម្លងអាសយដ្ឋានកាបូបរបស់អ្នក។</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">ដើម្បីបន្ថែមថវិកា ផ្ញើ MobileCoin អាសយដ្ឋានកាបូបរបស់អ្នក។ ចាប់ផ្តើមប្រតិបត្តិការពីគណនីរបស់អ្នក នៅកន្លែងប្តូរប្រាក់ដែលគាំទ្រ MobileCoin បន្ទាប់មកស្កេនកូដ QR ឬចម្លងអាសយដ្ឋានកាបូបរបស់អ្នក។</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">លម្អិត</string>
   <string name="PaymentsDetailsFragment__status">ស្ថានភាព</string>
@@ -2210,7 +2210,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">មិនមានព័ត៌មានបន្ថែមសម្រាប់ប្រតិបត្តិការនេះ</string>
   <string name="PaymentsDetailsFragment__sent_payment">ការទូទាត់បានផ្ញើ</string>
   <string name="PaymentsDetailsFragment__received_payment">ការទូទាត់បានទទួល</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">ការទូទាត់បានបញ្ចប់ %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">ការទូទាត់បានបញ្ចប់ %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">ប្លក់លេខ</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">ការបញ្ជូន</string>

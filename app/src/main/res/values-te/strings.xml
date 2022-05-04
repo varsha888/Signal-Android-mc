@@ -2039,7 +2039,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">మీ వాలెట్ చిరునామా</string>
   <string name="PaymentsAddMoneyFragment__copy">నకలు</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">క్లిప్బోర్డ్కు కాపీ చేయబడింది</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">నిధులను జోడించడానికి, మీ వాలెట్ చిరునామాకు MobileCoin పంపండి. MobileCoin కి మద్దతిచ్చే మార్పిడిలో మీ ఖాతా నుండి లావాదేవీని ప్రారంభించండి, ఆపై QR కోడ్‌ను స్కాన్ చేయండి లేదా మీ వాలెట్ చిరునామాను కాపీ చేయండి.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">నిధులను జోడించడానికి, మీ వాలెట్ చిరునామాకు MobileCoin పంపండి. MobileCoin కి మద్దతిచ్చే మార్పిడిలో మీ ఖాతా నుండి లావాదేవీని ప్రారంభించండి, ఆపై QR కోడ్‌ను స్కాన్ చేయండి లేదా మీ వాలెట్ చిరునామాను కాపీ చేయండి.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">వివరాలు</string>
   <string name="PaymentsDetailsFragment__status">స్థితి</string>

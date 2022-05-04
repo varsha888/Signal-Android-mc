@@ -2288,7 +2288,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="PaymentsAddMoneyFragment__your_wallet_address">A tárcád címe</string>
   <string name="PaymentsAddMoneyFragment__copy">Másolás</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Vágólapra másolva</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">A feltöltéshez küldj MobileCoint a tárcád címére. A tranzakciót egy olyan tőzsdei fiókról indítsd, amely támogatja a MobileCoint. A címzett megadásához olvasd le a QR kódot, vagy másold be a tárcád címét!</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">A feltöltéshez küldj MobileCoint a tárcád címére. A tranzakciót egy olyan tőzsdei fiókról indítsd, amely támogatja a MobileCoint. A címzett megadásához olvasd le a QR kódot, vagy másold be a tárcád címét!</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Részletek</string>
   <string name="PaymentsDetailsFragment__status">Státusz</string>
@@ -2309,7 +2309,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="PaymentsDetailsFragment__no_details_available">Nem érhetőek el további részletek ehhez a tranzakcióhoz</string>
   <string name="PaymentsDetailsFragment__sent_payment">Fizetés küldése</string>
   <string name="PaymentsDetailsFragment__received_payment">Beérkezett fizetés</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Fizetés teljesült %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Fizetés teljesült %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Blokk szám</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Átutalás</string>

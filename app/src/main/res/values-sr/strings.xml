@@ -2390,7 +2390,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Адреса Вашег новчаника</string>
   <string name="PaymentsAddMoneyFragment__copy">Копирај</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Копирано у остави</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Да бисте додали средства, пошаљите MobileCoin на адресу вашег новчаника. Покрените трансакцију са свог рачуна на размени која подржава MobileCoin, а затим скенирајте QR кôд или копирајте адресу вашег новчаника.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Да бисте додали средства, пошаљите MobileCoin на адресу вашег новчаника. Покрените трансакцију са свог рачуна на размени која подржава MobileCoin, а затим скенирајте QR кôд или копирајте адресу вашег новчаника.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Опширније</string>
   <string name="PaymentsDetailsFragment__status">Стање</string>
@@ -2411,7 +2411,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Нема додатних детаља за ову трансакцију</string>
   <string name="PaymentsDetailsFragment__sent_payment">Пошаљи уплату</string>
   <string name="PaymentsDetailsFragment__received_payment">Примљена уплата</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Уплата завршена %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Уплата завршена %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Блокирај број</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Пренос</string>

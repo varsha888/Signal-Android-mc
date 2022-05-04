@@ -2319,7 +2319,7 @@ aktivizoni Kyçje Regjistrimi, teksa PIN-i është i çaktivizuar.</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Portofol</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopjoje</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">U kopjua në të papastër</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Për të shtuar fonde, dërgoni MobileCoin te adresa e portofolit tuaj. Fillon një transaksion që nga llogaria juaj në një platformë që mbulon MobileCoin, mandej skanoni kodin QR ose kopjoni adresën e portofolit tuaj.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Për të shtuar fonde, dërgoni MobileCoin te adresa e portofolit tuaj. Fillon një transaksion që nga llogaria juaj në një platformë që mbulon MobileCoin, mandej skanoni kodin QR ose kopjoni adresën e portofolit tuaj.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Hollësi</string>
   <string name="PaymentsDetailsFragment__status">Gjendje</string>
@@ -2340,7 +2340,7 @@ aktivizoni Kyçje Regjistrimi, teksa PIN-i është i çaktivizuar.</string>
   <string name="PaymentsDetailsFragment__no_details_available">S\’ka hollësi të mëtejshme për këtë transaksion</string>
   <string name="PaymentsDetailsFragment__sent_payment">Pagesë e dërguar</string>
   <string name="PaymentsDetailsFragment__received_payment">Pagesë e marrë</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Pagesë e plotësuar %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Pagesë e plotësuar %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Numër blloku</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Shpërngule</string>

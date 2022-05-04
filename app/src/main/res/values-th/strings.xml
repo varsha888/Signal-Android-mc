@@ -2074,7 +2074,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">ที่อยู่กระเป๋าเงินของคุณ</string>
   <string name="PaymentsAddMoneyFragment__copy">คัดลอก</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">คัดลอกไปคลิปบอร์ดแล้ว</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">เพื่อเพิ่มเงิน ส่ง MobileCoin ไปยังที่อยู่กระเป๋าเงินของคุณ เริ่มต้นธุรกรรมจากบัญชีของคุณในตลาดแลกเปลี่ยนที่รองรับ MobileCoin จากนั้นสแกนรหัส QR หรือคัดลอกที่อยู่กระเป๋าเงินของคุณ</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">เพื่อเพิ่มเงิน ส่ง MobileCoin ไปยังที่อยู่กระเป๋าเงินของคุณ เริ่มต้นธุรกรรมจากบัญชีของคุณในตลาดแลกเปลี่ยนที่รองรับ MobileCoin จากนั้นสแกนรหัส QR หรือคัดลอกที่อยู่กระเป๋าเงินของคุณ</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">รายละเอียด</string>
   <string name="PaymentsDetailsFragment__status">สถานะ</string>
@@ -2095,7 +2095,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">ไม่มีรายละเอียดเพิ่มเติมอีกสำหรับธุรกรรมนี้</string>
   <string name="PaymentsDetailsFragment__sent_payment">การชำระเงินที่ส่งแล้ว</string>
   <string name="PaymentsDetailsFragment__received_payment">การชำระเงินที่ได้รับ</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">การชำระเงินสมบูรณ์ %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">การชำระเงินสมบูรณ์ %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">หมายเลขบล็อค</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">โอน</string>

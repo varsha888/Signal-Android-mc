@@ -2281,7 +2281,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">It adres fan dyn portemonnee</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopiearje</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Nei it klamboerd kopiearre</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Meitsje in account by in beurs dy’t MobileCoin stipet. Stjoer dernei fan dyn beurs-account ôf MobileCoin nei dyn Signal-portemonnee-adres troch de QR-koade te scannen of troch it adres te kopiearjen om op Signal kredyt ta te foegjen.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Meitsje in account by in beurs dy’t MobileCoin stipet. Stjoer dernei fan dyn beurs-account ôf MobileCoin nei dyn Signal-portemonnee-adres troch de QR-koade te scannen of troch it adres te kopiearjen om op Signal kredyt ta te foegjen.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Details</string>
   <string name="PaymentsDetailsFragment__status">Steat</string>
@@ -2302,7 +2302,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Der is net mear ynformaasje beskikber oer dizze oerskriuwing</string>
   <string name="PaymentsDetailsFragment__sent_payment">Oerskriuwing ferstjoere </string>
   <string name="PaymentsDetailsFragment__received_payment">Untfongen oerskriuwing</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Oerskriuwing foltôge %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Oerskriuwing foltôge %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Bloknûmer</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Oerskriuwe</string>

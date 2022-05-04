@@ -2316,7 +2316,7 @@ Se recibió un mensaje de intercambio de claves para una versión no válida del
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Dirección de tu cartera</string>
   <string name="PaymentsAddMoneyFragment__copy">Copiar</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Copiado al portapapeles</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Para añadir fondos, envía MobileCoin a la dirección de tu cartera. Inicia una transferencia desde tu cuenta en un «exchange» que soporte MobileCoin. Después puedes escanear el código QR o copiar la dirección de tu cartera.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Para añadir fondos, envía MobileCoin a la dirección de tu cartera. Inicia una transferencia desde tu cuenta en un «exchange» que soporte MobileCoin. Después puedes escanear el código QR o copiar la dirección de tu cartera.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detalles</string>
   <string name="PaymentsDetailsFragment__status">Estado</string>
@@ -2337,7 +2337,7 @@ Se recibió un mensaje de intercambio de claves para una versión no válida del
   <string name="PaymentsDetailsFragment__no_details_available">No hay más detalles disponibles para esta transacción</string>
   <string name="PaymentsDetailsFragment__sent_payment">Pago enviado</string>
   <string name="PaymentsDetailsFragment__received_payment">Pago recibido</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Pago completado el %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Pago completado el %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Número de bloque</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Transferencia</string>

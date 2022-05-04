@@ -14,9 +14,12 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.navigation.Navigation;
 
+import com.google.android.material.button.MaterialButton;
+
 import org.thoughtcrime.securesms.LoggingFragment;
 import org.thoughtcrime.securesms.R;
 import org.thoughtcrime.securesms.components.qr.QrView;
+import org.thoughtcrime.securesms.util.CommunicationActions;
 import org.thoughtcrime.securesms.util.views.LearnMoreTextView;
 
 public final class PaymentsAddMoneyFragment extends LoggingFragment {
@@ -35,12 +38,16 @@ public final class PaymentsAddMoneyFragment extends LoggingFragment {
     TextView          walletAddressAbbreviated = view.findViewById(R.id.payments_add_money_abbreviated_wallet_address);
     View              copyAddress              = view.findViewById(R.id.payments_add_money_copy_address_button);
     LearnMoreTextView info                     = view.findViewById(R.id.payments_add_money_info);
+    TextView          terms  = view.findViewById(R.id.view_terms);
+    MaterialButton    buyMob = view.findViewById(R.id.buy_mob);
 
+    info.setLinkColor(getResources().getColor(R.color.signal_text_primary));
     info.setLearnMoreVisible(true);
     info.setLink(getString(R.string.PaymentsAddMoneyFragment__learn_more__information));
 
     toolbar.setNavigationOnClickListener(v -> Navigation.findNavController(v).popBackStack());
-
+    terms.setOnClickListener(view1 -> openBrowserLink(getString(R.string.PaymentsAddMoneyFragment__view_terms_url)));
+    buyMob.setOnClickListener(view12 -> openBrowserLink(viewModel.getBuyMobUri()));
     viewModel.getSelfAddressAbbreviated().observe(getViewLifecycleOwner(), walletAddressAbbreviated::setText);
 
     viewModel.getSelfAddressB58().observe(getViewLifecycleOwner(), base58 -> copyAddress.setOnClickListener(v -> copyAddressToClipboard(base58)));
@@ -54,6 +61,10 @@ public final class PaymentsAddMoneyFragment extends LoggingFragment {
         default                  : throw new AssertionError();
       }
     });
+  }
+
+  private void openBrowserLink(String url) {
+    CommunicationActions.openBrowserLink(requireContext(), url);
   }
 
   private void copyAddressToClipboard(@NonNull String base58) {

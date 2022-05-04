@@ -2187,7 +2187,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">ستاسې د جیبي بکسک پته</string>
   <string name="PaymentsAddMoneyFragment__copy">کاپي کول</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">کلیپبورډ ته کاپي شو</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">د اعتبار د زیاتولو لپاره، MobileCoin د خپل جیبي بکسک پتې ته ولیږئ. معامله له خپل اکاونټ څخه په هغه صرافي کې چې د MobileCoin نه ملاتړ کوي پیل کړئ، وروسته بیا د  QR کوډ سکن یا د خپل جیبي بکسک پته کاپي کړئ.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">د اعتبار د زیاتولو لپاره، MobileCoin د خپل جیبي بکسک پتې ته ولیږئ. معامله له خپل اکاونټ څخه په هغه صرافي کې چې د MobileCoin نه ملاتړ کوي پیل کړئ، وروسته بیا د  QR کوډ سکن یا د خپل جیبي بکسک پته کاپي کړئ.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">جزئیات</string>
   <string name="PaymentsDetailsFragment__status">وضعیت</string>
@@ -2208,7 +2208,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">د همدې معاملې لپاره نور جزئیات نشته</string>
   <string name="PaymentsDetailsFragment__sent_payment">پرداخت ولیږل شو</string>
   <string name="PaymentsDetailsFragment__received_payment">پرداخت راورسید</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">پرداخت %1$s بشپړ شو</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">پرداخت %1$s بشپړ شو</string>
   <string name="PaymentsDetailsFragment__block_number">د شمېرې بلاک کول</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">لېږل</string>

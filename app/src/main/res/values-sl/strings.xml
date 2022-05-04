@@ -2477,7 +2477,7 @@ Prejeto sporočilo za izmenjavo ključev za napačno različico protokola.</stri
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Naslov vaše denarnice</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopiraj</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Kopirano v odložišče</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Za dodajanje sredstev pošljite svoje MobileCoine na naslov svoje denarnice. S transakcijo začnete v svojem računu v menjalnici, ki podpira MobileCoin, nato skenirate kodo QR ali prekopirate naslov denarnice.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Za dodajanje sredstev pošljite svoje MobileCoine na naslov svoje denarnice. S transakcijo začnete v svojem računu v menjalnici, ki podpira MobileCoin, nato skenirate kodo QR ali prekopirate naslov denarnice.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Podrobnosti</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2498,7 +2498,7 @@ Prejeto sporočilo za izmenjavo ključev za napačno različico protokola.</stri
   <string name="PaymentsDetailsFragment__no_details_available">Več podatkov o transakciji ni na voljo</string>
   <string name="PaymentsDetailsFragment__sent_payment">Poslano plačilo</string>
   <string name="PaymentsDetailsFragment__received_payment">Prejeto plačilo</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Plačilo je zaključeno %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Plačilo je zaključeno %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Blokiraj številko</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Prenos</string>

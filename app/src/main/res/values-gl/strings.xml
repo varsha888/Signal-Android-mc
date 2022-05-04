@@ -2054,7 +2054,7 @@
   <!--PaymentsAddMoneyFragment-->
   <string name="PaymentsAddMoneyFragment__copy">Copiar</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Copiado ao portapapeis</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Para engadir fondos envía MobileCoin ao enderezo da túa carteira. Comeza unha transacción desde a túa conta nun intercambio que soporte MobileCoin, despois escanea o código QR ou copia o endereo da túa carteira.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Para engadir fondos envía MobileCoin ao enderezo da túa carteira. Comeza unha transacción desde a túa conta nun intercambio que soporte MobileCoin, despois escanea o código QR ou copia o endereo da túa carteira.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detalles</string>
   <string name="PaymentsDetailsFragment__status">Estado</string>

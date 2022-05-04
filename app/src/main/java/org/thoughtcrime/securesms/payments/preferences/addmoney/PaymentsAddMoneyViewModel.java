@@ -9,11 +9,13 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.Transformations;
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
-
+import org.thoughtcrime.securesms.BuildConfig;
+import org.thoughtcrime.securesms.keyvalue.SignalStore;
 import org.thoughtcrime.securesms.util.AsynchronousCallback;
 import org.signal.core.util.StringUtil;
 
 final class PaymentsAddMoneyViewModel extends ViewModel {
+  private static final String REDIRECT_URL = "sgnl://mobilecoinbuy";
 
   private final MutableLiveData<AddressAndUri>                    selfAddressAndUri = new MutableLiveData<>();
   private final MutableLiveData<PaymentsAddMoneyRepository.Error> errors            = new MutableLiveData<>();
@@ -54,6 +56,17 @@ final class PaymentsAddMoneyViewModel extends ViewModel {
   LiveData<Uri> getSelfAddressUriForQr() {
     return selfAddressUri;
   }
+
+  String getBuyMobUri() {
+    return Uri.parse(BuildConfig.MOBILECOIN_BUY_URL)
+              .buildUpon()
+              .appendQueryParameter("walletAddress", selfAddressB58.getValue())
+              .appendQueryParameter("redirectURL", REDIRECT_URL)
+              .appendQueryParameter("language", SignalStore.settings().getLanguage())
+              .appendQueryParameter("currencyCode", SignalStore.paymentsValues().currentCurrency().getCurrencyCode())
+              .build().toString();
+  }
+
 
   public static final class Factory implements ViewModelProvider.Factory {
     @Override

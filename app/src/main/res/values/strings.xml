@@ -2740,6 +2740,7 @@
     <string name="PaymentsHomeFragment__transfer_to_exchange">Transfer to exchange</string>
     <string name="PaymentsHomeFragment__currency_conversion">Currency conversion</string>
     <string name="PaymentsHomeFragment__deactivate_payments">Deactivate payments</string>
+    <string name="PaymentsHomeFragment__loading_balance">Loading Balance</string>
     <string name="PaymentsHomeFragment__recovery_phrase">Recovery phrase</string>
     <string name="PaymentsHomeFragment__help">Help</string>
     <string name="PaymentsHomeFragment__coin_cleanup_fee">Coin cleanup fee</string>
@@ -2772,7 +2773,10 @@
     <string name="PaymentsAddMoneyFragment__your_wallet_address">Your Wallet Address</string>
     <string name="PaymentsAddMoneyFragment__copy">Copy</string>
     <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Copied to clipboard</string>
-    <string name="PaymentsAddMoneyFragment__to_add_funds">To add funds, send MobileCoin to your wallet address. Start a transaction from your account on an exchange that supports MobileCoin, then scan the QR code or copy your wallet address.</string>
+    <string name="PaymentsAddMoneyFragment__buy_mob">Buy MOB</string>
+    <string name="PaymentsAddMoneyFragment__view_terms">View MobileCoin Terms</string>
+    <string name="PaymentsAddMoneyFragment__view_terms_url" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_transfer_from_exchange</string>
+    <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Buy MOB from our partner MobileCoin Inc.\n</string>
     <string name="PaymentsAddMoneyFragment__learn_more__information" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_transfer_from_exchange</string>
 
     <!-- PaymentsDetailsFragment -->
@@ -2797,7 +2801,7 @@
     <string name="PaymentsDetailsFragment__learn_more__cleanup_fee" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_details_fees</string>
     <string name="PaymentsDetailsFragment__sent_payment">Sent payment</string>
     <string name="PaymentsDetailsFragment__received_payment">Received payment</string>
-    <string name="PaymentsDeatilsFragment__payment_completed_s">Payment completed %1$s</string>
+    <string name="PaymentsDetailsFragment__payment_completed_s">Payment completed %1$s</string>
     <string name="PaymentsDetailsFragment__block_number">Block number</string>
 
     <!-- PaymentsTransferFragment -->

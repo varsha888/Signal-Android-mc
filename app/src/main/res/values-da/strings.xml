@@ -2315,7 +2315,7 @@ nummer (%s) er ugyldigt</string>
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Din wallet-adresse</string>
   <string name="PaymentsAddMoneyFragment__copy">Kopiér</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Kopieret til udklipsholder</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">For at tilføje midler skal du sende MobileCoin til din wallet-adresse. Start en transaktion fra din konto på en børs, som understøtter MobileCoin, derefter scan QR-koden eller kopier wallet-adressen.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">For at tilføje midler skal du sende MobileCoin til din wallet-adresse. Start en transaktion fra din konto på en børs, som understøtter MobileCoin, derefter scan QR-koden eller kopier wallet-adressen.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Detaljer</string>
   <string name="PaymentsDetailsFragment__status">Status</string>
@@ -2336,7 +2336,7 @@ nummer (%s) er ugyldigt</string>
   <string name="PaymentsDetailsFragment__no_details_available">Ingen yderligere detaljer er tilgængelige for transaktionen</string>
   <string name="PaymentsDetailsFragment__sent_payment">Sendt betaling</string>
   <string name="PaymentsDetailsFragment__received_payment">Modtaget betaling</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Betaling afsluttet %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Betaling afsluttet %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Bloker nummer</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Overfør</string>

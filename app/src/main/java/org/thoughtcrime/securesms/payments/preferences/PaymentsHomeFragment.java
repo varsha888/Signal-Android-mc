@@ -128,6 +128,7 @@ public class PaymentsHomeFragment extends LoggingFragment {
           refreshAnimation.setVisibility(View.GONE);
           break;
         case LOADING:
+          exchange.setText(R.string.PaymentsHomeFragment__loading_balance);
           refresh.setVisibility(View.INVISIBLE);
           refreshAnimation.playAnimation();
           refreshAnimation.setVisibility(View.VISIBLE);

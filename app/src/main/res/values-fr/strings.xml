@@ -2307,7 +2307,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">L’adresse de votre portefeuille</string>
   <string name="PaymentsAddMoneyFragment__copy">Copier</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">A été copié dans le presse-papiers</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Pour ajouter des fonds, envoyez des MobileCoins à l’adresse de votre porte-monnaie. Lancez une transaction de votre compte vers une plateforme de change qui accepte les MobileCoins, puis lisez le code QR ou copiez l’adresse de votre porte-monnaie.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Pour ajouter des fonds, envoyez des MobileCoins à l’adresse de votre porte-monnaie. Lancez une transaction de votre compte vers une plateforme de change qui accepte les MobileCoins, puis lisez le code QR ou copiez l’adresse de votre porte-monnaie.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Détails</string>
   <string name="PaymentsDetailsFragment__status">État</string>
@@ -2328,7 +2328,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Aucun autre détail disponible pour cette transaction</string>
   <string name="PaymentsDetailsFragment__sent_payment">Paiement envoyé</string>
   <string name="PaymentsDetailsFragment__received_payment">Paiement reçu</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Le paiement est finalisé %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Le paiement est finalisé %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Bloquer le numéro</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Transférer</string>

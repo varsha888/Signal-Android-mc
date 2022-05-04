@@ -2119,7 +2119,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">지갑 주소</string>
   <string name="PaymentsAddMoneyFragment__copy">복사</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">클립보드로 복사됨</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">자금을 추가하려면 MobileCoin을 지갑 주소로 보내세요. MobileCoin을 지원하는 거래소의 계정에서 거래를 시작한 다음 QR 코드를 스캔하거나 지갑 주소를 복사하세요.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">자금을 추가하려면 MobileCoin을 지갑 주소로 보내세요. MobileCoin을 지원하는 거래소의 계정에서 거래를 시작한 다음 QR 코드를 스캔하거나 지갑 주소를 복사하세요.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">세부 정보</string>
   <string name="PaymentsDetailsFragment__status">상태</string>
@@ -2140,7 +2140,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">이 거래에 대해 사용할 수 있는 추가 세부정보가 없습니다.</string>
   <string name="PaymentsDetailsFragment__sent_payment">송금됨</string>
   <string name="PaymentsDetailsFragment__received_payment">결제 완료</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">결제 완료 %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">결제 완료 %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">블록 번호</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">이체</string>

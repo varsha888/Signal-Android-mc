@@ -2264,7 +2264,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">ਤੁਹਾਡੇ ਵਾਲਟ ਦਾ ਸਿਰਨਾਵਾਂ</string>
   <string name="PaymentsAddMoneyFragment__copy">ਕਾਪੀ ਕਰੋ</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">ਕਲਿਪਬੋਰਡ ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">ਫੰਡ ਸ਼ਾਮਲ ਕਰਨ ਲਈ, ਆਪਣੇ ਵਾਲੇਟ ਪਤੇ ’ਤੇ MobileCoin ਭੇਜੋ। ਆਪਣੇ ਖਾਤੇ ਤੋਂ ਕਿਸੇ ਅਜਿਹੇ ਐਕਸਚੇਂਜ ’ਤੇ ਇੱਕ ਟ੍ਰਾਂਜੈਕਸ਼ਨ ਅਰੰਭ ਕਰੋ ਜੋ MobileCoin ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ, ਫਿਰ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ ਜਾਂ ਆਪਣੇ ਵਾਲੇਟ ਪਤੇ ਨੂੰ ਕਾਪੀ ਕਰੋ।</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">ਫੰਡ ਸ਼ਾਮਲ ਕਰਨ ਲਈ, ਆਪਣੇ ਵਾਲੇਟ ਪਤੇ ’ਤੇ MobileCoin ਭੇਜੋ। ਆਪਣੇ ਖਾਤੇ ਤੋਂ ਕਿਸੇ ਅਜਿਹੇ ਐਕਸਚੇਂਜ ’ਤੇ ਇੱਕ ਟ੍ਰਾਂਜੈਕਸ਼ਨ ਅਰੰਭ ਕਰੋ ਜੋ MobileCoin ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ, ਫਿਰ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ ਜਾਂ ਆਪਣੇ ਵਾਲੇਟ ਪਤੇ ਨੂੰ ਕਾਪੀ ਕਰੋ।</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">ਵੇਰਵਾ</string>
   <string name="PaymentsDetailsFragment__status">ਸਥਿਤੀ</string>
@@ -2285,7 +2285,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">ਇਸ ਲੈਣ-ਦੇਣ ਲਈ ਹੋਰ ਕੋਈ ਵੇਰਵੇ ਉਪਲਬਧ ਨਹੀਂ</string>
   <string name="PaymentsDetailsFragment__sent_payment">ਭੁਗਤਾਨ ਭੇਜਿਆ</string>
   <string name="PaymentsDetailsFragment__received_payment">ਭੁਗਤਾਨ ਮਿਲਿਆ</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">ਭੁਗਤਾਨ ਪੂਰਾ %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">ਭੁਗਤਾਨ ਪੂਰਾ %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">ਨੰਬਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">ਟਰਾਂਸਫਰ</string>

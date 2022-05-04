@@ -2484,7 +2484,7 @@
   <string name="PaymentsAddMoneyFragment__your_wallet_address">Адреса вашого гаманця</string>
   <string name="PaymentsAddMoneyFragment__copy">Копіювати</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Скопійовано до буфера обміну</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">Щоб додати кошти — надішліть MobileCoin на адресу вашого гаманця. Розпочніть платіж з вашого облікового запису на біржі, що підтримує MobileCoin, зіскануйте QR-код, а потім скопіюйте адресу вашого гаманця.</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">Щоб додати кошти — надішліть MobileCoin на адресу вашого гаманця. Розпочніть платіж з вашого облікового запису на біржі, що підтримує MobileCoin, зіскануйте QR-код, а потім скопіюйте адресу вашого гаманця.</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">Деталі</string>
   <string name="PaymentsDetailsFragment__status">Стан</string>
@@ -2505,7 +2505,7 @@
   <string name="PaymentsDetailsFragment__no_details_available">Деталі цієї транзакції недоступні</string>
   <string name="PaymentsDetailsFragment__sent_payment">Надісланий платіж</string>
   <string name="PaymentsDetailsFragment__received_payment">Отриманий платіж</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">Платіж завершено %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">Платіж завершено %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">Номер блока</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">Переказ</string>

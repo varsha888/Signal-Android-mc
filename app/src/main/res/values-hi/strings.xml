@@ -2251,7 +2251,7 @@ href=\"https://signal.org/redirect/safety-numbers\">ज़्यादा जा
   <string name="PaymentsAddMoneyFragment__your_wallet_address">आपका वॉलेट पता</string>
   <string name="PaymentsAddMoneyFragment__copy">कॉपी</string>
   <string name="PaymentsAddMoneyFragment__copied_to_clipboard">क्लिपबोर्ड पर कॉपी किया गया है</string>
-  <string name="PaymentsAddMoneyFragment__to_add_funds">धनराशि जोड़ने के लिए, अपने वॉलेट पते में MobileCoin भेजें। अपने खाते से किसी ऐसे एक्सचेंज पर लेन-देन शुरू करें जो MobileCoin का समर्थन करता हो, फिर QR स्कैन करें या अपने वॉलेट पते को कॉपी करें।</string>
+  <string name="PaymentsAddMoneyFragment__buy_mob_from_partner">धनराशि जोड़ने के लिए, अपने वॉलेट पते में MobileCoin भेजें। अपने खाते से किसी ऐसे एक्सचेंज पर लेन-देन शुरू करें जो MobileCoin का समर्थन करता हो, फिर QR स्कैन करें या अपने वॉलेट पते को कॉपी करें।</string>
   <!--PaymentsDetailsFragment-->
   <string name="PaymentsDetailsFragment__details">माहिती</string>
   <string name="PaymentsDetailsFragment__status">स्थिति</string>
@@ -2272,7 +2272,7 @@ href=\"https://signal.org/redirect/safety-numbers\">ज़्यादा जा
   <string name="PaymentsDetailsFragment__no_details_available">इस लेन-देन के लिए आगे कोई भी विवरण उपलब्ध नहीं है</string>
   <string name="PaymentsDetailsFragment__sent_payment">भेजे गए भुगतान</string>
   <string name="PaymentsDetailsFragment__received_payment">प्राप्त किए गए भुगतान</string>
-  <string name="PaymentsDeatilsFragment__payment_completed_s">भुगतान पूरा हुआ %1$s</string>
+  <string name="PaymentsDetailsFragment__payment_completed_s">भुगतान पूरा हुआ %1$s</string>
   <string name="PaymentsDetailsFragment__block_number">नंबर ब्लॉक करें</string>
   <!--PaymentsTransferFragment-->
   <string name="PaymentsTransferFragment__transfer">ट्रांसफ़र करें</string>
